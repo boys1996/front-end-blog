@@ -1,0 +1,11 @@
+node_modules
+.idea
+.DS_Store
+.vscode
+.vitepress/cache
+dist
+.cache
+.temp
+*.local
+.eslintcache
+components.d.ts
